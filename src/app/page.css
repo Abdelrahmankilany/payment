@@ -1,0 +1,12 @@
+.payment_div {
+  max-width: 100svw;
+  direction: rtl;
+  margin: 5px 3px;
+
+}
+
+@media (max-width:600px) {
+  #h {
+    display: none;
+  }
+}
